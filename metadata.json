@@ -1,0 +1,7 @@
+{
+  "name": "NutriTrack Elite",
+  "description": "Elite-tier AI calorie tracking and nutritional optimization. Featuring natural language logging, biometric analysis, and strategic meal planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
